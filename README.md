@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marie. I'm a Frontend developer based in Montreal. Here is some things to know more  about me.
+My name is Marie. I'm a Frontend developer based in Montreal. Here are some things to know more  about me.
 
 - 🔭 I’m currently working on [Teasty](https://github.com/Myeris/teasty-web-app)
 - 🌱 I’m currently learning about a11y (accessibility)
